@@ -1,0 +1,269 @@
+  body {
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Ms Madi', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Ms Madi', cursive;
+    box-sizing: border-box;
+
+    position: relative;
+    width: 1901px;
+    height: 1705px;
+    
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2));
+}
+
+.kontakt {
+  position: absolute;
+  width: 184px;
+  height: 15px;
+  left: 1544px;
+  top: 69px;
+  
+  font-family: 'Mplus 1p';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 15px;
+  /* identical to box height, or 47% */
+  
+  text-align: center;
+  letter-spacing: 0.15em;
+  
+  color:darkslategray;
+}
+
+.telefon {
+  position: absolute;
+width: 442px;
+height: 95px;
+left: 1430px;
+top: 155px;
+
+font-family: 'Mplus 1p';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 30px;
+/* or 94% */
+
+text-align: center;
+letter-spacing: 0.15em;
+
+color: darkslategrey;
+}
+
+.insta {
+  position: absolute;
+width: 330px;
+height: 95px;
+left: 1459px;
+top: 295px;
+
+font-family: 'Mplus 1p';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 30px;
+/* or 47% */
+
+text-align: center;
+letter-spacing: 0.15em;
+
+}
+
+.mail {
+  position: absolute;
+  width: 421px;
+  height: 38px;
+  left: 1445px;
+  top: 419px;
+  
+  font-family: 'Mplus 1p';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 32px;
+  line-height: 30px;
+  /* or 47% */
+  
+  text-align: center;
+  letter-spacing: 0.05em;
+  
+  color: #000000;
+  
+}
+
+.title {
+  position: absolute;
+  width: 922px;
+  height: 43px;
+  left: 229px;
+  top: 95px;
+  
+  font-family: 'Montserrat', sans-serif;
+  font-family: 'Ms Madi', cursive;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 58px;
+  line-height: 50px;
+  /* or 31% */
+  
+  text-align: center;
+  letter-spacing: 0.15em;
+  
+  color:0000000;
+  }
+
+  .titlename {
+    position: absolute;
+    width: 607px;
+    height: 60px;
+    left: 429px;
+    top: 355px;
+    
+    font-family: 'Mplus 1p';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 55px;
+    /* or 31% */
+    
+    text-align: center;
+    letter-spacing: 0.15em;
+    
+    color: #000000;
+    
+    
+    
+    color: darkslategrey ;
+  }
+
+  .name {
+    position: absolute;
+    width: 325px;
+    height: 80px;
+    left: 1427px;
+    top: 14px;
+    
+    font-family: 'Mplus 1p';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15px;
+    /* or 94% */
+    
+    text-align: center;
+    letter-spacing: 0.15em;
+    
+    color: #FFFFFF;
+    
+  }
+
+  .paragraf {
+    position: absolute;
+    width: 1533px;
+    height: 150px;
+    left: 105px;
+    top: 621px;
+    
+    font-family: 'Mplus 1p';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    
+    /* or 62% */
+    
+    text-align: center;
+    letter-spacing: 0.15em;
+    }
+   
+  .galery {
+    position: absolute;
+width: 292px;
+height: 33px;
+left: 598px;
+top: 767px;
+
+font-family: 'Mplus 1p';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 15px;
+/* or 47% */
+
+text-align: center;
+letter-spacing: 0.15em;
+ }
+
+ .galeryfoto1 {
+  position: absolute;
+  width: 389px;
+  height: 350px;
+  left: 75px;
+  top: 835px;
+  
+  background: url(3.jpg);
+}
+
+.galeryfoto2 {
+  position: absolute;
+  width: 400px;
+  height: 352px;
+  left: 509px;
+  top: 835px;
+  
+  background: url(4.jpg);
+}
+
+.galeryfoto3 {
+  position: absolute;
+  width: 400px;
+  height: 355px;
+  left: 951px;
+  top: 835px;
+  
+  background: url(5.jpg);
+}
+
+.galeryfoto4 {
+  position: absolute;
+  width: 391px;
+  height: 350px;
+  left: 1406px;
+  top: 835px;
+  
+  background: url(6.jpg);
+}
+
+.technjology {
+  position: absolute;
+  width: 1722px;
+  height: 38px;
+  left: 75px;
+  top: 1204px;
+  
+  font-family: 'Sofia';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 15px;
+  /* or 47% */
+  
+  text-align: center;
+  letter-spacing: 0.10em;
+  }
+
+  .list {
+    font-family: 'Mplus 1p';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 30px;
+    
+    position: absolute;
+    width: 1138px;
+    height: 240px;
+    left: 368px;
+    top: 1280px;
+  }
+
